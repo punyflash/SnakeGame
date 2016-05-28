@@ -1,4 +1,4 @@
-﻿#Snake game (SFML)
+﻿#Snake game (Qt)
 
 ##What is it?
 > Snake game - is a simpy OOP based project, graphics displays by default Qt Framework. 
