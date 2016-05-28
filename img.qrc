@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="res">
+        <file>Resourses/background.jpg</file>
+        <file>Resourses/food.png</file>
+        <file>Resourses/snakepiece.png</file>
+		<file>Resourses/gamefield.png</file>
+		<file>Resourses/start_s1.png</file>
+		<file>Resourses/start_s2.png</file>
+		<file>Resourses/records_s1.png</file>
+		<file>Resourses/records_s2.png</file>
+		<file>Resourses/exit_s1.png</file>
+		<file>Resourses/exit_s2.png</file>
+		<file>Resourses/logo.png</file>
+    </qresource>
+</RCC>
