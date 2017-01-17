@@ -5,7 +5,7 @@
 
 ##How to compile?
 > - Use Qt Creator 5.5 version or later.
-> - Run the MaleFile by Qt Creator
+> - Run the MakeFile by Qt Creator
 > In Snake.zip you can find a compiled *.exe file
 
 ##Design:
