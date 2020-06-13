@@ -9,12 +9,12 @@ Snake game - is a simpy OOP based project, graphics displays by default Qt Frame
 In Snake.zip you can find a compiled *.exe file
 
 ## Design:
-> ☑ Creating all graphics
+☑ Creating all graphics
 
-> ☑ Realize game states: loading, menu, game process, sore table
+☑ Realize game states: loading, menu, game process, sore table
 
-> ☑ Game proces realized by only 2 objects: Snake, Food
+☑ Game proces realized by only 2 objects: Snake, Food
 
-> ☑ Realize logfile
+☑ Realize logfile
 
-> ☑ Realize score table, using STL
+☑ Realize score table, using STL
