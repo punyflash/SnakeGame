@@ -1,14 +1,14 @@
-﻿#Snake game (Qt)
+﻿# Snake game (Qt)
 
-##What is it?
+## What is it?
 > Snake game - is a simpy OOP based project, graphics displays by default Qt Framework. 
 
-##How to compile?
+## How to compile?
 > - Use Qt Creator 5.5 version or later.
 > - Run the MakeFile by Qt Creator
 > In Snake.zip you can find a compiled *.exe file
 
-##Design:
+## Design:
 > ☑ Creating all graphics
 
 > ☑ Realize game states: loading, menu, game process, sore table
